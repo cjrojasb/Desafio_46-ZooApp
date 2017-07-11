@@ -42,3 +42,4 @@
     at.animals.build(nombre: "Pancho").save
 
   
+Clase 47 - EJERCICIOS DE CHANGOS Y SCOPES
